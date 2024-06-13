@@ -1,49 +1,27 @@
-<div align="center">
-  <img height="150" src="https://camo.githubusercontent.com/62da68eb62b1e5f175f7d1f0191dd89a653d7908feb22d37d4a0ab07365d6791/68747470733a2f2f6d656469612e67697068792e636f6d2f6d656469612f4d3967624264396e6244724f5475314d71782f67697068792e676966"  />
-</div>
+<h1 align="center">Hi 👋, I'm Mohamed Tarek</h1>
+<h3 align="center">A passionate embedded system engineer from Egypt</h3>
 
-###
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=tek0mt&label=Profile%20views&color=0e75b6&style=flat" alt="tek0mt" /> </p>
 
-<div align="center">
-  <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="linkedin logo"  />
-  <img src="https://img.shields.io/static/v1?message=Youtube&logo=youtube&label=&color=FF0000&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="youtube logo"  />
-  <img src="https://img.shields.io/static/v1?message=Twitter&logo=twitter&label=&color=1DA1F2&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="twitter logo"  />
-</div>
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=tek0mt" alt="tek0mt" /></a> </p>
 
-###
+- 🌱 I’m currently learning **Interfacing**
 
-<h1 align="center">hey there 👋</h1>
+- 💬 Ask me about **C programming**
 
-###
+- 📫 How to reach me **mohamedmttarekmt@gmail.com**
 
-<h3 align="left">👩‍💻  About Me</h3>
+- ⚡ Fun fact **Iam a programmer who takes shower and goes to gym (but still afraid of women)**
 
-###
+<h3 align="left">Connect with me:</h3>
+<p align="left">
+<a href="https://linkedin.com/in/mohamed tarek" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="mohamed tarek" height="30" width="40" /></a>
+<a href="https://fb.com/mohamed tarek" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="mohamed tarek" height="30" width="40" /></a>
+</p>
 
-<p align="left">I'm Mohamed Tarek from Egypt<br><br>- 🔭 I’m a computer and control system engineer student<br>- 📚 I'm currently learning Embedded Systems<br>- ⚡ In my free time I go to the gym</p>
+<h3 align="left">Languages and Tools:</h3>
+<p align="left"> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> </p>
 
-###
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=tek0mt&show_icons=true&locale=en&layout=compact" alt="tek0mt" /></p>
 
-<h3 align="left">🛠 Language and tools</h3>
-
-###
-
-<div align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" height="40" alt="c logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" height="40" alt="cplusplus logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/embeddedc/embeddedc-original.svg" height="40" alt="embeddedc logo"  />
-</div>
-
-###
-
-<h3 align="left">🔥   My Stats :</h3>
-
-###
-
-<div align="right">
-  <img height="200" src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExbXVlOHIxcnYxdHI0cG10Y3NoYnAyMWxoOW45djNjOXoxZGo3ZHhvZiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/qgQUggAC3Pfv687qPC/giphy.webp"  />
-</div>
-
-###
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=tek0mt&show_icons=true&locale=en" alt="tek0mt" /></p>
